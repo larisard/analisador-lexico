@@ -1,3 +1,8 @@
+######           Analisador Léxico    ######
+# Autor 1: Lucas Vinicius dos Santos Assis
+# Autor 2: Andressa Moura de Souza
+# Modificações: Larissa Ribeiro Sardinha
+
 import sys
 import os.path
 import string
