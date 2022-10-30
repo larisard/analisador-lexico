@@ -1,0 +1,15 @@
+:declaracoes
+argumento:int
+fatorial:int
+
+:algoritmo
+
+ler argumento
+atribuir argumento a fatorial
+se argumento = 0 entao atribuir 1 a fatorial
+enquanto argumento > 1
+   inicio
+      atribuir fatorial * (argumento - 1) a fatorial
+      atribuir argumento - 1 a argumento
+   fim
+imprimir fatorial
